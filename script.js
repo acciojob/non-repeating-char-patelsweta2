@@ -9,6 +9,7 @@ function firstNonRepeatedChar(str) {
 		i(charCount[char] === 1){
 			return char;
 		}
+		
 	}
 	return null;
 }
